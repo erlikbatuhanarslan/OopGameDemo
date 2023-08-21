@@ -62,16 +62,6 @@ ZIRHLAR
     - Silah : Tabanca,Kılıç,Tüfek
     - Zırh : Hafif,Orta,Ağır
 
-# Sınıf Diyagramı
-
-![class-diagram](class-diagram.jpg)
-
-# Ödevler
-
-1. Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten sonra bölgeye özel ödülü oyunucun
-   envanterine eklenmelidir. Eğer oyuncu tüm ödülleri toplayıp "Güvenli Eve" dönebilirse oyunu kazanır. Ayrıca ödül
-   kazanılan bölgeye tekrar giriş yapılamaz.
-
 ## Bölge Ödülleri :
 
 - Mağara => Yemek (Food)
